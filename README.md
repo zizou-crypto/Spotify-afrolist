@@ -19,4 +19,5 @@ This is a SQL project on Afropop and Africa genre analysis from the spotify afro
  - GROUP BY statement; s used to arrange identical data into groups based on the values of one or more columns. It is typically used in conjunction with aggregate functions to perform operations on each group of data.
  - SELECT statement; which is the almighty query in sql is used in retreiving data from database.
  - COUNT function; is used to count the number of rows that meet a specified condition in a table. It is commonly used in conjunction with the SELECT statement to retrieve information about the number of records in a table or a result set.
+   ![](sql_for_spotify.png)
    
